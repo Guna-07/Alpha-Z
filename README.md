@@ -4,7 +4,7 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with a cu
 
 ## Deployed Website
 
-[![Run On onrender](https://alphaz.onrender.com)
+[![Run On onrender](https://alphaz.onrender.com)]
 
 ## Usage
 ```
